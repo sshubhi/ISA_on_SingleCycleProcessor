@@ -1,0 +1,64 @@
+C:/Modeltech_pe_edu_10.4a/examples/alu.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/data_memory.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/data_memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/alu_control.v {1 {vlog -work UCSD -stats=none C:/Modeltech_pe_edu_10.4a/examples/alu_control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/instruction_memory.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/instruction_memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/instruction_fetch.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/instruction_fetch.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instruction_fetch
+
+Top level modules:
+	instruction_fetch
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/control_unit.v {1 {vlog -work UCSD -stats=none C:/Modeltech_pe_edu_10.4a/examples/control_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/sign_extend.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/sign_extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mux_2x1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mux_2x1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_2x1
+
+Top level modules:
+	mux_2x1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/TB_processor.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/TB_processor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_processor
+
+Top level modules:
+	TB_processor
+
+} {} {}}
